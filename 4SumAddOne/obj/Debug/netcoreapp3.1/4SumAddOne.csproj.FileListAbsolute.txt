@@ -1,0 +1,12 @@
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\bin\Debug\netcoreapp3.1\4SumAddOne.exe
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\bin\Debug\netcoreapp3.1\4SumAddOne.deps.json
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\bin\Debug\netcoreapp3.1\4SumAddOne.runtimeconfig.json
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\bin\Debug\netcoreapp3.1\4SumAddOne.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\bin\Debug\netcoreapp3.1\4SumAddOne.dll
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\bin\Debug\netcoreapp3.1\4SumAddOne.pdb
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\obj\Debug\netcoreapp3.1\4SumAddOne.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\obj\Debug\netcoreapp3.1\4SumAddOne.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\obj\Debug\netcoreapp3.1\4SumAddOne.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\obj\Debug\netcoreapp3.1\4SumAddOne.dll
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\obj\Debug\netcoreapp3.1\4SumAddOne.pdb
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\AF\4SumAddOne\obj\Debug\netcoreapp3.1\4SumAddOne.genruntimeconfig.cache
